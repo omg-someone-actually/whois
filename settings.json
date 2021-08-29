@@ -1,0 +1,41 @@
+{   
+    "ipinfo": 
+    {
+        "access_token": "access token"
+    },
+
+    "discord_bot": 
+    {
+        "bot_token": "bot token",
+        "bot_prefix": ";;",
+        "removed_commands":
+        [
+            "help"
+        ]
+    },
+
+    "reddit_bot": 
+    {
+        "client_id": "client id",
+        "client_secret": "client secret",
+        "user_agent": "client by user",
+        "username": "username",
+        "password": "password"
+
+    },
+
+    "customization":
+    {
+        "owner_ids": 
+            [
+                123456789
+            ],
+
+        "thumbnails": 
+
+            {
+                "ip": "https://www.ntooitive.com/wp-content/uploads/2017/11/if__IP_Address_1134556.png",
+                "reddit": "https://pork-barrel.com/wp-content/uploads/2019/12/Reddit-Logo.png"
+            }
+    }
+}
